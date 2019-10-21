@@ -32,6 +32,10 @@ h6,
 	letter-spacing: .25rem;
 }
 
+.thrill-nav {
+	letter-spacing: .15rem;
+}
+
 /*      nav      */
 
 .navbar-dark .navbar-nav .nav-link {
@@ -97,6 +101,10 @@ h6,
 footer a.thrill-light:hover {
 	color: #cecece;
 	text-decoration: underline;
+}
+
+footer .row {
+	margin: 0;
 }
 
 /*      Footer      */
