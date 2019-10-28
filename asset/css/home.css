@@ -1,17 +1,5 @@
 /*      main      */
 
-.thrill-text-shadow-sm {
-	text-shadow: 0 .125rem .25rem #00000013 !important;
-}
-
-.thrill-text-shadow {
-	text-shadow: 0 .5rem 1rem #00000026 !important;
-}
-
-.thrill-text-shadow-lg {
-	text-shadow: 0 3rem 6rem #0000002d !important;
-}
-
 .row {
 	margin-left: 0;
 	margin-right: 0;
@@ -34,6 +22,7 @@ section#matchs .thrill-bg-shadow {
 	height: 100%;
 	width: 100%;
 	background-color: #0000008e;
+	opacity: 0.4;
 }
 
 section#matchs .col-md-8.themed-grid-col .col-md-12 .row .col-md-4 {

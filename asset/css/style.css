@@ -120,3 +120,15 @@ footer .row {
 	background-color: #2b4990;
 	border-color: #2b4990;
 }
+
+.thrill-text-shadow-sm {
+	text-shadow: 0 .125rem .25rem #00000013 !important;
+}
+
+.thrill-text-shadow {
+	text-shadow: 0 .5rem 1rem #00000026 !important;
+}
+
+.thrill-text-shadow-lg {
+	text-shadow: 0 3rem 6rem #0000002d !important;
+}
